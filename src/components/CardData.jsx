@@ -7,8 +7,8 @@ const CardData = [
         isOnline: "online",
     },
     {
-        name: 'Mojio2',
-        age: 28,
+        name: 'Mojio',
+        age: 27,
         isOnline: "offline",
     },
 ]
