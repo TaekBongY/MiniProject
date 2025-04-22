@@ -7,7 +7,6 @@ const Card = styled.div`
     border-radius: 16px;
     padding: 24px;
     margin: 16px;
-    }
 `
 const CardTitle = styled.h2`
     color: #4b0082;
