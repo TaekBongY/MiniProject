@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import IsOnline from './isOnline'
+import IsOnline from './IsOnline'
 
 const Card = styled.div`
     background: linear-gradient(135deg, #e0bbff, #ffc1cc);
